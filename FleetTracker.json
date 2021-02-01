@@ -3,7 +3,7 @@
     "name": "StGregory",
     "comment": "useIcon accepts emoji or any other text",
     "allyCode": "641649821",
-    "userIcon": ":skull_crossbones:",
+    "userIcon": ":smiling_imp:",
     "tagIdOnDrop": "&350289089582596097",
     "tagIdOnClimb": "&350289089582596097"
   },
@@ -12,7 +12,7 @@
     "comment": "just a commment, not used by the bot",
     "allyCode": "561963325",
     "tagIdOnDrop": "&406945430967156766",
-    "userIcon": "Hello there, :skull_crossbones:",
+    "userIcon": ":eyes:",
     "tagIdOnClimb" : "&406945430967156766"
   }
 ]
