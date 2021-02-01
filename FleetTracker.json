@@ -22,5 +22,13 @@
     "tagIdOnDrop": "",
     "userIcon": ":flame:",
     "tagIdOnClimb" : ""
+  },
+      {
+    "name": "Drakenst",
+    "comment": "just a commment, not used by the bot",
+    "allyCode": "897691912",
+    "tagIdOnDrop": "",
+    "userIcon": ":Wack:",
+    "tagIdOnClimb" : ""
   }
 ]
