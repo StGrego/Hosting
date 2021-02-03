@@ -46,5 +46,13 @@
     "tagIdOnDrop": "404096765860773890",
     "userIcon": ":man_bald:",
     "tagIdOnClimb" : ""
+  },
+    {
+    "name": "Daniel",
+    "comment": "just a commment, not used by the bot",
+    "allyCode": "794864513",
+    "tagIdOnDrop": "439935406008434689",
+    "userIcon": ":flag_jp:",
+    "tagIdOnClimb" : ""
   }
 ]
